@@ -16,9 +16,10 @@
        select the item with kernel "5.15.0-53-generic".
 
    Example grub menu shown as below:
-
+   
    .. code-block:: console
       :emphasize-lines: 7
+      
       
                               GNU GRUB version 2.04
       ────────────────────────────────────────────────────────────────────────────────
