@@ -1,4 +1,4 @@
-..  code-block:: console
+.. code-block:: console
     :caption: console test
     
     ls
@@ -19,7 +19,6 @@
    
 .. code-block:: console
       :emphasize-lines: 7
-      
                               GNU GRUB version 2.04
       ────────────────────────────────────────────────────────────────────────────────
       Ubuntu
