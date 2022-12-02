@@ -1,5 +1,5 @@
 .. code-block:: console
-    :caption: console test
+   :caption: console test
     
     ls
 
@@ -17,7 +17,7 @@
 
    Example grub menu shown as below:
    
-.. code-block:: console
+   .. code-block:: console
       :emphasize-lines: 7
                               GNU GRUB version 2.04
       ────────────────────────────────────────────────────────────────────────────────
