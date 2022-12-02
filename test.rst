@@ -32,7 +32,6 @@
       Ubuntu with ACRN hypervisor
       UEFI Firmware Settings
 
-.. _gsg-run-acrn:
 
 .. rst-class:: numbered-step
 
